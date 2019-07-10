@@ -32,3 +32,11 @@ ADDITIONAL FUNCTION
 5. 높은 칼로리의 음식 기입시 yes/no
 
 6. 식욕 억제 짤
+
+
+참고 자료
+1. 유저명 인식 하기
+https://github.com/slackapi/python-slack-events-api/blob/master/example/example.py
+
+2. 도봉구 보건소
+http://u-health.dobong.go.kr/
